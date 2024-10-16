@@ -7,3 +7,6 @@ body {
   display: block;
   margin: 0 auto;
 }
+h1 {
+  font-weight: 700;
+}
