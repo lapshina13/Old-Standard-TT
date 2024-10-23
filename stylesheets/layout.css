@@ -90,6 +90,7 @@ body {
   width: 277px;
   height: 420px;
   position: absolute;
+  background-image: url(../images/стакан1.svg);
   left: 68px;
   top: 0px;
 }
@@ -97,13 +98,15 @@ body {
   width: 277px;
   height: 420px;
   position: absolute;
+  background-image: url(../images/стакан2.svg);
   left: 323px;
-  top: 150px;
+  top: 145px;
 }
 .стакан3 {
   width: 277px;
   height: 420px;
   position: absolute;
+  background-image: url(../images/стакан3.svg);
   left: 573px;
   top: 0px;
 }
@@ -111,13 +114,15 @@ body {
   width: 277px;
   height: 420px;
   position: absolute;
+  background-image: url(../images/стакан4.svg);
   left: 827px;
-  top: 150px;
+  top: 145px;
 }
 .стакан5 {
   width: 277px;
   height: 420px;
   position: absolute;
+  background-image: url(../images/стакан5.svg);
   left: 1082px;
   top: 0px;
 }
@@ -329,6 +334,505 @@ body {
   position: absolute;
   top: 1586px;
   left: 1258px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.i {
+  font-size: 85px;
+  position: absolute;
+  top: 1741px;
+  left: 113px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.i1 {
+  font-size: 85px;
+  position: absolute;
+  top: 1741px;
+  left: 279px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.k {
+  font-size: 85px;
+  position: absolute;
+  top: 1741px;
+  left: 447px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.l {
+  font-size: 85px;
+  position: absolute;
+  top: 1741px;
+  left: 603px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.m {
+  font-size: 85px;
+  position: absolute;
+  top: 1741px;
+  left: 765px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.n {
+  font-size: 85px;
+  position: absolute;
+  top: 1741px;
+  left: 927px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.o {
+  font-size: 85px;
+  position: absolute;
+  top: 1741px;
+  left: 1094px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.p {
+  font-size: 85px;
+  position: absolute;
+  top: 1741px;
+  left: 1254px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.r {
+  font-size: 85px;
+  position: absolute;
+  top: 1875px;
+  left: 117px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.s {
+  font-size: 85px;
+  position: absolute;
+  top: 1875px;
+  left: 281px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.t {
+  font-size: 85px;
+  position: absolute;
+  top: 1875px;
+  left: 447px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.y {
+  font-size: 85px;
+  position: absolute;
+  top: 1875px;
+  left: 608px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.f {
+  font-size: 85px;
+  position: absolute;
+  top: 1875px;
+  left: 765px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.x {
+  font-size: 85px;
+  position: absolute;
+  top: 1875px;
+  left: 930px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.z1 {
+  font-size: 85px;
+  position: absolute;
+  top: 1875px;
+  left: 1094px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.ch {
+  font-size: 85px;
+  position: absolute;
+  top: 1875px;
+  left: 1254px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.sh {
+  font-size: 85px;
+  position: absolute;
+  top: 2017px;
+  left: 97px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.sh1 {
+  font-size: 85px;
+  position: absolute;
+  top: 2017px;
+  left: 268px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.tv {
+  font-size: 85px;
+  position: absolute;
+  top: 2017px;
+  left: 440px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.iii {
+  font-size: 85px;
+  position: absolute;
+  top: 2017px;
+  left: 599px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.mg {
+  font-size: 85px;
+  position: absolute;
+  top: 2017px;
+  left: 779px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.ao {
+  font-size: 85px;
+  position: absolute;
+  top: 2017px;
+  left: 936px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.u {
+  font-size: 85px;
+  position: absolute;
+  top: 2017px;
+  left: 1093px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.ua {
+  font-size: 85px;
+  position: absolute;
+  top: 2017px;
+  left: 1260px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.zag2 {
+  font-size: 49px;
+  position: absolute;
+  top: 2236px;
+  left: 67px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+.zag3 {
+  font-size: 49px;
+  position: absolute;
+  top: 3006px;
+  left: 67px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+.ценник {
+  width: 1296px;
+  height: 425px;
+  background-image: url(../images/ценники.svg);
+  position: absolute;
+  top: 2329px;
+  left: 80px;
+}
+.bold1 {
+  font-size: 48px;
+  position: absolute;
+  top: 2402px;
+  left: 97px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+.bold2 {
+  font-size: 47px;
+  position: absolute;
+  top: 2488px;
+  left: 250px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+.regular1 {
+  font-size: 48px;
+  position: absolute;
+  top: 2402px;
+  left: 569px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.regular2 {
+  font-size: 47px;
+  position: absolute;
+  top: 2488px;
+  left: 722px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.italic1 {
+  font-size: 48px;
+  position: absolute;
+  top: 2402px;
+  left: 1065px;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
+.italic2 {
+  font-size: 47px;
+  position: absolute;
+  top: 2488px;
+  left: 1218px;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
+.kap {
+  font-size: 43px;
+  position: absolute;
+  top: 3160px;
+  left: 154px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.dia {
+  text-align: center;
+  font-size: 30px;
+  position: absolute;
+  top: 3310px;
+  left: 356px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.vin {
+  text-align: center;
+  font-size: 32px;
+  position: absolute;
+  top: 3155px;
+  left: 645px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.ver {
+  text-align: center;
+  font-size: 30px;
+  position: absolute;
+  top: 3310px;
+  left: 880px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.con {
+  text-align: center;
+  font-size: 32px;
+  position: absolute;
+  top: 3152px;
+  left: 1158px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.menu2 {
+  font-size: 63px;
+  line-height: 78px;
+  position: absolute;
+  top: 4249px;
+  left: 126px;
+  font-style: regular;
+  color: rgb(255, 255, 255);
+}
+.ya {
+  font-size: 60px;
+  position: absolute;
+  top: 4109px;
+  left: 445px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+}
+.ya2 {
+  font-size: 200px;
+  position: absolute;
+  top: 4659px;
+  left: 500px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+}
+.ya3 {
+  font-size: 65px;
+  position: absolute;
+  top: 4825px;
+  left: 536px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+}
+.zag4 {
+  font-size: 49px;
+  position: absolute;
+  top: 5150px;
+  left: 1017px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+.P {
+  font-size: 280px;
+  position: absolute;
+  top: 5233px;
+  left: 135px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.C {
+  font-size: 280px;
+  position: absolute;
+  transform: rotate(50deg);
+  transform-origin: center;
+  top: 5295px;
+  left: 310px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.T {
+  font-size: 280px;
+  position: absolute;
+  transform: rotate(250deg);
+  transform-origin: center;
+  top: 5430px;
+  left: 448px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.D {
+  font-size: 260px;
+  position: absolute;
+  transform: rotate(300deg);
+  transform-origin: center;
+  top: 5648px;
+  left: 440px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.O {
+  font-size: 290px;
+  position: absolute;
+  transform: rotate(330deg);
+  transform-origin: center;
+  top: 5878px;
+  left: 350px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.V {
+  font-size: 280px;
+  position: absolute;
+  transform: rotate(358deg);
+  transform-origin: center;
+  top: 5540px;
+  left: 1330px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.SE {
+  font-size: 280px;
+  position: absolute;
+  transform: rotate(325deg);
+  transform-origin: center;
+  top: 5570px;
+  left: 1180px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.DE {
+  font-size: 280px;
+  position: absolute;
+  transform: rotate(295deg);
+  transform-origin: center;
+  top: 5610px;
+  left: 930px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.S {
+  font-size: 270px;
+  position: absolute;
+  transform: rotate(265deg);
+  transform-origin: center;
+  top: 5830px;
+  left: 1026px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.N {
+  font-size: 280px;
+  position: absolute;
+  transform: rotate(227deg);
+  transform-origin: center;
+  top: 5970px;
+  left: 1110px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(58, 64, 98);
+}
+.text {
+  font-size: 40px;
+  position: absolute;
+  top: 6430px;
+  left: 85px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.text2 {
+  font-size: 40px;
+  position: absolute;
+  top: 7974px;
+  left: 782px;
   font-style: regular;
   color: rgb(0, 0, 0);
 }
