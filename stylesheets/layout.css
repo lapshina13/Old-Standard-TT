@@ -6,8 +6,8 @@ body {
   background-color: rgb(251, 240, 212);
   width: 1440px;
   display: block;
-  margin: 0 auto;
   overflow-x: hidden;
+  margin: 0 auto;
 }
 .fon1 {
   width: 1440px;
@@ -215,18 +215,11 @@ body {
 .podval {
   width: 1440px;
   height: 241px;
-  background-image: url(../images/подвал.svg);
+  background-image: url(../images/podval2.svg);
   position: absolute;
   top: 9293px;
 }
-.hse {
-  width: 416px;
-  height: 236px;
-  background-image: url(../images/хсе.svg);
-  position: absolute;
-  top: 0px;
-  left: 960px;
-}
+
 .zagolovok {
   font-weight: 732px;
   font-size: 99px;
@@ -835,4 +828,316 @@ body {
   left: 782px;
   font-style: regular;
   color: rgb(0, 0, 0);
+}
+.symbols {
+  font-size: 90px;
+  text-align: center;
+  position: absolute;
+  transform: rotate(20deg);
+  transform-origin: center;
+  top: 7369px;
+  left: 210px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+}
+.s1 {
+  font-size: 150px;
+  position: absolute;
+  top: 6575px;
+  left: 81px;
+  color: rgb(58, 64, 98);
+}
+.s2 {
+  font-size: 150px;
+  position: absolute;
+  transform: rotate(22deg);
+  transform-origin: center;
+  top: 6700px;
+  left: 81px;
+  color: rgb(58, 64, 98);
+}
+.s4 {
+  font-size: 150px;
+  position: absolute;
+  top: 6625px;
+  left: 240px;
+  color: rgb(58, 64, 98);
+}
+.yana {
+  font-size: 40px;
+  position: absolute;
+  top: 75px;
+  left: 61px;
+  line-height: 50px;
+  color: rgb(255, 255, 255);
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+.s5 {
+  font-size: 170px;
+  transform: rotate(338deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6740px;
+  left: 155px;
+  color: rgb(58, 64, 98);
+}
+.s3 {
+  font-size: 240px;
+  transform: rotate(341deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6880px;
+  left: 178px;
+  color: rgb(58, 64, 98);
+}
+.s7 {
+  font-size: 380px;
+  position: absolute;
+  top: 6650px;
+  left: 330px;
+  color: rgb(58, 64, 98);
+}
+.s6 {
+  font-size: 280px;
+  transform: rotate(358deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6820px;
+  left: 260px;
+  color: rgb(58, 64, 98);
+}
+.s8 {
+  font-size: 230px;
+  transform: rotate(348deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6580px;
+  left: 488px;
+  color: rgb(58, 64, 98);
+}
+.s10 {
+  font-size: 140px;
+  position: absolute;
+  top: 6752px;
+  left: 488px;
+  color: rgb(58, 64, 98);
+}
+.s9 {
+  font-size: 160px;
+  position: absolute;
+  top: 6888px;
+  left: 478px;
+  color: rgb(58, 64, 98);
+}
+.s14 {
+  font-size: 250px;
+  transform: rotate(342deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6600px;
+  left: 594px;
+  color: rgb(58, 64, 98);
+}
+.s11 {
+  font-size: 170px;
+  position: absolute;
+  top: 6867px;
+  left: 612px;
+  color: rgb(58, 64, 98);
+}
+.s13 {
+  font-size: 200px;
+  position: absolute;
+  top: 6945px;
+  left: 630px;
+  color: rgb(58, 64, 98);
+}
+.s19 {
+  font-size: 200px;
+  transform: rotate(12deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6600px;
+  left: 734px;
+  color: rgb(58, 64, 98);
+}
+.s16 {
+  font-size: 220px;
+  transform: rotate(335deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6741px;
+  left: 734px;
+  color: rgb(58, 64, 98);
+}
+.s12 {
+  font-size: 220px;
+  transform: rotate(33deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6898px;
+  left: 780px;
+  color: rgb(58, 64, 98);
+}
+.s15 {
+  font-size: 140px;
+  transform: rotate(44deg);
+  transform-origin: center;
+  position: absolute;
+  top: 7125px;
+  left: 740px;
+  color: rgb(58, 64, 98);
+}
+.s18 {
+  font-size: 250px;
+  position: absolute;
+  top: 6644px;
+  left: 940px;
+  color: rgb(58, 64, 98);
+}
+.s17 {
+  font-size: 210px;
+  transform: rotate(330deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6880px;
+  left: 920px;
+  color: rgb(58, 64, 98);
+}
+.s20 {
+  font-size: 170px;
+  position: absolute;
+  top: 7011px;
+  left: 860px;
+  color: rgb(58, 64, 98);
+}
+.s25 {
+  font-size: 200px;
+  position: absolute;
+  top: 7052px;
+  left: 920px;
+  color: rgb(58, 64, 98);
+}
+.s21 {
+  font-size: 250px;
+  position: absolute;
+  top: 6680px;
+  left: 1069px;
+  color: rgb(58, 64, 98);
+}
+.s27 {
+  font-size: 220px;
+  position: absolute;
+  top: 6600px;
+  left: 1080px;
+  color: rgb(58, 64, 98);
+}
+.s22 {
+  font-size: 150px;
+  transform: rotate(348deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6800px;
+  left: 1140px;
+  color: rgb(58, 64, 98);
+}
+.s23 {
+  font-size: 150px;
+  transform: rotate(348deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6850px;
+  left: 1200px;
+  color: rgb(58, 64, 98);
+}
+.s24 {
+  font-size: 160px;
+  position: absolute;
+  top: 6940px;
+  left: 1050px;
+  color: rgb(58, 64, 98);
+}
+.s29 {
+  font-size: 280px;
+  transform: rotate(180deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6565px;
+  left: 1224px;
+  color: rgb(58, 64, 98);
+}
+.s28 {
+  font-size: 220px;
+  transform: rotate(340deg);
+  transform-origin: center;
+  position: absolute;
+  top: 6850px;
+  left: 1269px;
+  color: rgb(58, 64, 98);
+}
+.s26 {
+  font-size: 190px;
+  transform: rotate(310deg);
+  transform-origin: center;
+  position: absolute;
+  top: 7070px;
+  left: 1100px;
+  color: rgb(58, 64, 98);
+}
+.bakery {
+  font-size: 36px;
+  position: absolute;
+  top: 8250px;
+  left: 160px;
+  font-style: italic;
+  line-height: 50px;
+  color: rgb(58, 64, 98);
+}
+.podarok {
+  font-size: 50px;
+  position: absolute;
+  text-align: center;
+  line-height: 60px;
+  top: 8275px;
+  left: 900px;
+  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+.close {
+  font-size: 130px;
+  position: absolute;
+  top: 8540px;
+  left: 931px;
+  font-style: italic;
+  color: rgb(58, 64, 98);
+}
+.kond {
+  font-size: 36px;
+  position: absolute;
+  top: 9071px;
+  left: 1121px;
+  font-style: regular;
+  color: rgb(195, 133, 144);
+}
+.rub {
+  font-size: 44px;
+  position: absolute;
+  top: 8948px;
+  left: 767px;
+  font-style: regular;
+  color: rgb(0, 0, 0);
+}
+.korob {
+  font-size: 70px;
+  position: absolute;
+  top: 8855px;
+  left: 80px;
+  font-style: italic;
+  color: rgb(58, 64, 98);
 }
