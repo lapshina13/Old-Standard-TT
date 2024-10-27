@@ -12,30 +12,30 @@ body {
 .fon1 {
   width: 1440px;
   height: 1382px;
-  background-image: url(../images/фон1.svg);
+  background-image: url(../images/fon1.svg);
 }
-.окно1 {
+.okno1 {
   width: 308px;
   height: 393px;
   position: absolute;
   left: 200px;
   top: 280px;
 }
-.окно2 {
+.okno2 {
   width: 308px;
   height: 393px;
   position: absolute;
   left: 845px;
   top: 362px;
 }
-.табличка {
+.tablichka {
   width: 228px;
   height: 103px;
   position: absolute;
   left: 595px;
   top: 308px;
 }
-.козырек {
+.kozir {
   width: 1293px;
   height: 185px;
   position: absolute;
@@ -45,33 +45,34 @@ body {
 .fon2 {
   width: 1296px;
   height: 676px;
-  background-image: url(../images/алфавит2.svg);
+  background-image: url(../images/alfavit2.svg);
   position: absolute;
   top: 1454px;
   left: 72px;
 }
-.кофе {
+.coffee {
   width: 236px;
   height: 143px;
   position: absolute;
   left: 1140px;
   top: 1154px;
 }
-.доска {
+.doska {
   width: 390px;
   height: 396px;
   position: absolute;
   left: 50px;
   top: 871px;
 }
-.доска2 {
+.doska2 {
   width: 227px;
   height: 316px;
   position: absolute;
   left: 395px;
   top: 1000px;
 }
-.ценник {
+.zennik {
+  background-image: url(../images/zenniki.svg);
   width: 1296px;
   height: 425px;
   position: absolute;
@@ -81,55 +82,55 @@ body {
 .fon3 {
   width: 1440px;
   height: 660px;
-  background-image: url(../images/градиент.svg);
+  background-image: url(../images/grad.svg);
   position: absolute;
   top: 3092px;
   left: 0px;
 }
-.стакан1 {
+.stakan1 {
   width: 277px;
   height: 420px;
   position: absolute;
-  background-image: url(../images/стакан1.svg);
+  background-image: url(../images/stakan1.svg);
   left: 68px;
   top: 0px;
 }
-.стакан2 {
+.stakan2 {
   width: 277px;
   height: 420px;
   position: absolute;
-  background-image: url(../images/стакан2.svg);
+  background-image: url(../images/stakan2.svg);
   left: 323px;
   top: 145px;
 }
-.стакан3 {
+.stakan3 {
   width: 277px;
   height: 420px;
   position: absolute;
-  background-image: url(../images/стакан3.svg);
+  background-image: url(../images/stakan3.svg);
   left: 573px;
   top: 0px;
 }
-.стакан4 {
+.stakan4 {
   width: 277px;
   height: 420px;
   position: absolute;
-  background-image: url(../images/стакан4.svg);
+  background-image: url(../images/stakan4.svg);
   left: 827px;
   top: 145px;
 }
-.стакан5 {
+.stakan5 {
   width: 277px;
   height: 420px;
   position: absolute;
-  background-image: url(../images/стакан5.svg);
+  background-image: url(../images/stakan5.svg);
   left: 1082px;
   top: 0px;
 }
 .fon4 {
   width: 1300px;
   height: 997px;
-  background-image: url(../images/меню.svg);
+  background-image: url(../images/men.svg);
   position: absolute;
   top: 3980px;
   left: 70px;
@@ -142,7 +143,7 @@ body {
   top: 5142px;
   left: 0px;
 }
-.пакет {
+.paket {
   width: 744px;
   height: 902px;
   background-image: url(../images/paket.svg);
@@ -150,48 +151,48 @@ body {
   top: 7028px;
   left: 78px;
 }
-.кружка1 {
+.cryzka1 {
   width: 311px;
   height: 300px;
   position: absolute;
   left: 739px;
   top: 7603px;
 }
-.кружка2 {
+.cryzka2 {
   width: 311px;
   height: 300px;
   position: absolute;
   left: 1050px;
   top: 7313px;
 }
-.коробка {
+.korobka {
   width: 649px;
   height: 456px;
-  background-image: url(../images/коробка.svg);
+  background-image: url(../images/korobka.svg);
   position: absolute;
   top: 8178px;
   left: 61px;
 }
-.сертификат {
+.sert {
   width: 588px;
   height: 281px;
-  background-image: url(../images/сертификат.svg);
+  background-image: url(../images/sert.svg);
   position: absolute;
   top: 8178px;
   left: 785px;
 }
-.открыто {
+.open1 {
   width: 586px;
   height: 236px;
-  background-image: url(../images/открыто.svg);
+  background-image: url(../images/open1.svg);
   position: absolute;
   top: 8482px;
   left: 785px;
 }
-.подарок {
+.podarok1 {
   width: 644px;
   height: 424px;
-  background-image: url(../images/подарок.svg);
+  background-image: url(../images/podarok1.svg);
   position: absolute;
   top: 8718px;
   left: 67px;
@@ -199,7 +200,7 @@ body {
 .check {
   width: 326px;
   height: 245px;
-  background-image: url(../images/ценник2.svg);
+  background-image: url(../images/check.svg);
   position: absolute;
   top: 8843px;
   left: 745px;
@@ -207,7 +208,7 @@ body {
 .vizitka {
   width: 271px;
   height: 400px;
-  background-image: url(../images/визитка.svg);
+  background-image: url(../images/vizit1.svg);
   position: absolute;
   top: 8742px;
   left: 1100px;
@@ -234,7 +235,7 @@ body {
   position: absolute;
   top: 340px;
   left: 678px;
-  font-style: regular;
+  font-style: normal;
   color: black;
 }
 .est2 {
@@ -242,7 +243,7 @@ body {
   position: absolute;
   top: 365px;
   left: 650px;
-  font-style: regular;
+  font-style: normal;
   color: black;
 }
 .ant {
@@ -250,9 +251,7 @@ body {
   position: absolute;
   top: 470px;
   left: 348px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(69, 69, 69);
 }
 .alf {
@@ -261,9 +260,7 @@ body {
   position: absolute;
   top: 1471px;
   left: 560px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(255, 255, 255);
 }
 .a {
@@ -271,7 +268,7 @@ body {
   position: absolute;
   top: 1586px;
   left: 111px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .b {
@@ -279,7 +276,7 @@ body {
   position: absolute;
   top: 1586px;
   left: 281px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .v {
@@ -287,7 +284,7 @@ body {
   position: absolute;
   top: 1586px;
   left: 447px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .g {
@@ -295,7 +292,7 @@ body {
   position: absolute;
   top: 1586px;
   left: 616px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .d {
@@ -303,7 +300,7 @@ body {
   position: absolute;
   top: 1586px;
   left: 765px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .e {
@@ -311,7 +308,7 @@ body {
   position: absolute;
   top: 1586px;
   left: 927px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .j {
@@ -319,7 +316,7 @@ body {
   position: absolute;
   top: 1586px;
   left: 1084px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .z {
@@ -327,7 +324,7 @@ body {
   position: absolute;
   top: 1586px;
   left: 1258px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .i {
@@ -335,7 +332,7 @@ body {
   position: absolute;
   top: 1741px;
   left: 113px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .i1 {
@@ -343,7 +340,7 @@ body {
   position: absolute;
   top: 1741px;
   left: 279px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .k {
@@ -351,7 +348,7 @@ body {
   position: absolute;
   top: 1741px;
   left: 447px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .l {
@@ -359,7 +356,7 @@ body {
   position: absolute;
   top: 1741px;
   left: 603px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .m {
@@ -367,7 +364,7 @@ body {
   position: absolute;
   top: 1741px;
   left: 765px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .n {
@@ -375,7 +372,7 @@ body {
   position: absolute;
   top: 1741px;
   left: 927px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .o {
@@ -383,7 +380,7 @@ body {
   position: absolute;
   top: 1741px;
   left: 1094px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .p {
@@ -391,7 +388,7 @@ body {
   position: absolute;
   top: 1741px;
   left: 1254px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .r {
@@ -399,7 +396,7 @@ body {
   position: absolute;
   top: 1875px;
   left: 117px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .s {
@@ -407,7 +404,7 @@ body {
   position: absolute;
   top: 1875px;
   left: 281px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .t {
@@ -415,7 +412,7 @@ body {
   position: absolute;
   top: 1875px;
   left: 447px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .y {
@@ -423,7 +420,7 @@ body {
   position: absolute;
   top: 1875px;
   left: 608px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .f {
@@ -431,7 +428,7 @@ body {
   position: absolute;
   top: 1875px;
   left: 765px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .x {
@@ -439,7 +436,7 @@ body {
   position: absolute;
   top: 1875px;
   left: 930px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .z1 {
@@ -447,7 +444,7 @@ body {
   position: absolute;
   top: 1875px;
   left: 1094px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .ch {
@@ -455,7 +452,7 @@ body {
   position: absolute;
   top: 1875px;
   left: 1254px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .sh {
@@ -463,7 +460,7 @@ body {
   position: absolute;
   top: 2017px;
   left: 97px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .sh1 {
@@ -471,7 +468,7 @@ body {
   position: absolute;
   top: 2017px;
   left: 268px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .tv {
@@ -479,7 +476,7 @@ body {
   position: absolute;
   top: 2017px;
   left: 440px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .iii {
@@ -487,7 +484,7 @@ body {
   position: absolute;
   top: 2017px;
   left: 599px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .mg {
@@ -495,7 +492,7 @@ body {
   position: absolute;
   top: 2017px;
   left: 779px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .ao {
@@ -503,7 +500,7 @@ body {
   position: absolute;
   top: 2017px;
   left: 936px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .u {
@@ -511,7 +508,7 @@ body {
   position: absolute;
   top: 2017px;
   left: 1093px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .ua {
@@ -519,7 +516,7 @@ body {
   position: absolute;
   top: 2017px;
   left: 1260px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .zag2 {
@@ -527,9 +524,7 @@ body {
   position: absolute;
   top: 2236px;
   left: 67px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(0, 0, 0);
 }
 .zag3 {
@@ -537,27 +532,16 @@ body {
   position: absolute;
   top: 3006px;
   left: 67px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(0, 0, 0);
 }
-.ценник {
-  width: 1296px;
-  height: 425px;
-  background-image: url(../images/ценники.svg);
-  position: absolute;
-  top: 2329px;
-  left: 80px;
-}
+
 .bold1 {
   font-size: 48px;
   position: absolute;
   top: 2402px;
   left: 97px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(0, 0, 0);
 }
 .bold2 {
@@ -565,9 +549,7 @@ body {
   position: absolute;
   top: 2488px;
   left: 250px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(0, 0, 0);
 }
 .regular1 {
@@ -575,7 +557,7 @@ body {
   position: absolute;
   top: 2402px;
   left: 569px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .regular2 {
@@ -583,7 +565,7 @@ body {
   position: absolute;
   top: 2488px;
   left: 722px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .italic1 {
@@ -607,7 +589,7 @@ body {
   position: absolute;
   top: 3160px;
   left: 154px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .dia {
@@ -616,7 +598,7 @@ body {
   position: absolute;
   top: 3310px;
   left: 356px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .vin {
@@ -625,7 +607,7 @@ body {
   position: absolute;
   top: 3155px;
   left: 645px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .ver {
@@ -634,7 +616,7 @@ body {
   position: absolute;
   top: 3310px;
   left: 880px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .con {
@@ -643,7 +625,7 @@ body {
   position: absolute;
   top: 3152px;
   left: 1158px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .menu2 {
@@ -652,7 +634,7 @@ body {
   position: absolute;
   top: 4249px;
   left: 126px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(255, 255, 255);
 }
 .ya {
@@ -660,9 +642,7 @@ body {
   position: absolute;
   top: 4109px;
   left: 445px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(255, 255, 255);
 }
 .ya2 {
@@ -670,9 +650,7 @@ body {
   position: absolute;
   top: 4659px;
   left: 500px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(255, 255, 255);
 }
 .ya3 {
@@ -680,9 +658,7 @@ body {
   position: absolute;
   top: 4825px;
   left: 536px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(255, 255, 255);
 }
 .zag4 {
@@ -690,9 +666,7 @@ body {
   position: absolute;
   top: 5150px;
   left: 1017px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(0, 0, 0);
 }
 .P {
@@ -700,9 +674,7 @@ body {
   position: absolute;
   top: 5233px;
   left: 135px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .C {
@@ -712,9 +684,7 @@ body {
   transform-origin: center;
   top: 5295px;
   left: 310px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .T {
@@ -724,9 +694,7 @@ body {
   transform-origin: center;
   top: 5430px;
   left: 448px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .D {
@@ -736,9 +704,7 @@ body {
   transform-origin: center;
   top: 5648px;
   left: 440px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .O {
@@ -748,9 +714,7 @@ body {
   transform-origin: center;
   top: 5878px;
   left: 350px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .V {
@@ -760,9 +724,7 @@ body {
   transform-origin: center;
   top: 5540px;
   left: 1330px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .SE {
@@ -772,9 +734,7 @@ body {
   transform-origin: center;
   top: 5570px;
   left: 1180px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .DE {
@@ -784,9 +744,7 @@ body {
   transform-origin: center;
   top: 5610px;
   left: 930px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .S {
@@ -796,9 +754,7 @@ body {
   transform-origin: center;
   top: 5830px;
   left: 1026px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .N {
@@ -808,9 +764,7 @@ body {
   transform-origin: center;
   top: 5970px;
   left: 1110px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(58, 64, 98);
 }
 .text {
@@ -818,7 +772,7 @@ body {
   position: absolute;
   top: 6430px;
   left: 85px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .text2 {
@@ -826,7 +780,7 @@ body {
   position: absolute;
   top: 7974px;
   left: 782px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .symbols {
@@ -837,9 +791,7 @@ body {
   transform-origin: center;
   top: 7369px;
   left: 210px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(255, 255, 255);
 }
 .s1 {
@@ -872,9 +824,7 @@ body {
   left: 61px;
   line-height: 50px;
   color: rgb(255, 255, 255);
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
 }
 .s5 {
   font-size: 170px;
@@ -1104,9 +1054,7 @@ body {
   line-height: 60px;
   top: 8275px;
   left: 900px;
-  src: url("../fonts/OldStandardTT-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
+  font-weight: bold;
   color: rgb(0, 0, 0);
 }
 .close {
@@ -1122,7 +1070,7 @@ body {
   position: absolute;
   top: 9071px;
   left: 1121px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(195, 133, 144);
 }
 .rub {
@@ -1130,7 +1078,7 @@ body {
   position: absolute;
   top: 8948px;
   left: 767px;
-  font-style: regular;
+  font-style: normal;
   color: rgb(0, 0, 0);
 }
 .korob {
